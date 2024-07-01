@@ -2,9 +2,7 @@
 
 - Interested in gamedev and music
 
-- Learning Godot 4.2.2
-
-- Currently in [Complete Godot 4 2D: Code Your Own 2D Games In Godot 4!](https://www.gamedev.tv/courses/godot-complete-2d) course.
+- Learning Godot 4.2.2 & Aseprite
 
 - I’m looking to collaborate on Game projects
 
@@ -13,9 +11,14 @@
 
 
 Completed projects;
-- Speedy Saucer
 
-- Alien Attack 
+- Speedy Saucer ([Gamedev.tv](https://www.gamedev.tv/courses/godot-complete-2d))
+  
+- Alien Attack ([Gamedev.tv](https://www.gamedev.tv/courses/godot-complete-2d))
+  
+- Martian Mike ([Gamedev.tv](https://www.gamedev.tv/courses/godot-complete-2d))
+
+- Brackeys Godot platformer tutorial ([Brackeys](https://www.youtube.com/@Brackeys))
 
 <!---
 Linkon18/Linkon18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
