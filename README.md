@@ -8,7 +8,7 @@
 
 - Reach me on [Twitter/X @Linkon18_TTV](https://x.com/Linkon18_TTV) also known as Linkon18 in other social platforms.
 
-
+- Published game projects can be seen on [itch.io](https://linkon18.itch.io/)
 
 Completed projects;
 
