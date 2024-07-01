@@ -18,7 +18,7 @@ Completed projects;
   
 - Martian Mike ([Gamedev.tv](https://www.gamedev.tv/courses/godot-complete-2d))
 
-- Brackeys Godot platformer tutorial ([Brackeys](https://www.youtube.com/@Brackeys))
+- Brackeys Godot platformer tutorial ([Brackeys](https://www.youtube.com/watch?v=LOhfqjmasi0))
 
 <!---
 Linkon18/Linkon18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
