@@ -1,12 +1,10 @@
 - Hi, I’m @Linkon18
 
-- Interested in gamedev and music
+- Learning Godot 4.3 & Aseprite
 
-- Learning Godot 4.2.2 & Aseprite
+- Would love to collaborate on a game project
 
-- I’m looking to collaborate on Game projects
-
-- Reach me on [Twitter/X @Linkon18_TTV](https://x.com/Linkon18_TTV) also known as Linkon18 in other social platforms.
+- Reach me on [Twitter/X @Linkon18_TTV](https://x.com/Linkon18_TTV) or @Linkon18 on Discord.
 
 - Published game projects can be seen on [itch.io](https://linkon18.itch.io/)
 
