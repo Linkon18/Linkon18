@@ -1,14 +1,10 @@
-- Hi, I’m @Linkon18
+- Learning Godot, Blender & Aseprite
 
-- Learning Godot 4.3 & Aseprite
-
-- Would love to collaborate on a game project
-
-- Reach me on [Twitter/X @Linkon18_TTV](https://x.com/Linkon18_TTV) or @Linkon18 on Discord.
+- Reach me @Linkon18 on Discord.
 
 - Published game projects can be seen on [itch.io](https://linkon18.itch.io/)
 
-Completed projects;
+Completed tutorial projects;
 
 - Speedy Saucer ([Gamedev.tv](https://www.gamedev.tv/courses/godot-complete-2d))
   
